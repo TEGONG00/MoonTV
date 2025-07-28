@@ -1,5 +1,5 @@
 {
-  "name":"donate-page"，
+  "name":"donate-page",
   "compatibility_date": "2025-07-28",
   "assets":{
     "directory": "./dist"
